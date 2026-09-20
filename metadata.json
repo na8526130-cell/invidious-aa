@@ -1,0 +1,6 @@
+{
+  "name": "Invidious",
+  "description": "An open source alternative front-end to YouTube focusing on privacy and lightweight viewing experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
